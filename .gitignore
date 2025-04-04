@@ -1,0 +1,62 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Distribution / packaging
+dist/
+build/
+*.egg-info/
+
+# Virtual environments
+venv/
+env/
+ENV/
+.env
+.venv
+env.bak/
+venv.bak/
+
+# Jupyter Notebook
+.ipynb_checkpoints
+*/.ipynb_checkpoints/*
+
+# IPython
+profile_default/
+ipython_config.py
+
+# VS Code settings
+.vscode/
+
+# PyCharm settings
+.idea/
+
+# Model checkpoints and large files
+# Uncomment if you don't want to track these
+# *.pkl
+# *.h5
+# *.model
+# *.joblib
+
+# Data files
+# Uncomment if you don't want to track these
+# *.csv
+# *.xlsx
+# *.json
+
+# Logs and temporary files
+logs/
+*.log
+*.tmp
+
+# OS specific files
+.DS_Store
+.DS_Store?
+._*
+.Spotlight-V100
+.Trashes
+ehthumbs.db
+Thumbs.db
+
+# Custom - Project specific
+# Add any project-specific files to ignore here 
